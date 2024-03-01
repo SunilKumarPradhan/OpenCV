@@ -1,0 +1,2 @@
+1. Run this command: pip install opencv-contrib-python
+2. pip install caer
